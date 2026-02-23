@@ -32,7 +32,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:kayzennotdev/bail"
+  "@whiskeysockets/baileys": "github:arullofficial/baileys"
 }
 ```
 ## Import
@@ -107,7 +107,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "Kayzennotdev",
+      newsletterName: "Арул Цзи Шторм ( 404 )",
       newsletterJid: "1@newsletter"
     }
   }
@@ -123,13 +123,13 @@ await client.relayMessage(m.chat, {
     thumbnail: { url: "./YourImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/kayzennotdev",
+    url: "https://t.me/arulofficialll",
     body: "Nak Tido",
     footer: "Footer",
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"kayzen\",\"url\":\"https://t.me/kayzennotdev\"}"
+        buttonParamsJson: "{\"display_text\":\"kayzen\",\"url\":\"https://t.me/arulofficialll\"}"
       }
     ],
     priceAmount1000: 72502,
@@ -141,8 +141,8 @@ await client.relayMessage(m.chat, {
 ```javascript
 const thanksFor = async () => {
   const credit = new Map([
-    ["kayzen", ""],
-    ["Gupong", "source my fork"],
+    ["ArulXz Official-ID", ""],
+    ["Ciaa", "My Firends"],
     ["yuukey", "main source baileys ( maybe )"]
   ]);
 
