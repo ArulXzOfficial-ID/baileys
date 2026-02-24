@@ -1,7 +1,7 @@
 {
-    "name": "arullofficial/baileys",
+    "name": "ArulXzOfficial-ID/Baileys",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By Arul",
+    "description": "WhatsApp API Modification By Арул Цзи Шторм ( 404 )",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,12 +12,12 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://www.npmjs.com/package/arullofficial/baileys",
+    "homepage": "https://www.npmjs.com/package/ArulXzOfficial-ID/Baileys",
     "repository": {
-        "url": "https://www.npmjs.com/package/arullofficial/baileys"
+        "url": "https://www.npmjs.com/package/ArulXzOfficial-ID/Baileys"
     },
     "license": "MIT",
-    "author": "Arul Official-ID",
+    "author": "ArulXzOfficial-ID",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
